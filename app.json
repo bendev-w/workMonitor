@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "googleClientIds": {
+        "webClientId": "37414041162-dinv0kb0dooq8n5bvpo2q5svv0hnc7ef.apps.googleusercontent.com37414041162-dinv0kb0dooq8n5bvpo2q5svv0hnc7ef.apps.googleusercontent.com",
+        "androidClientId": "YOUR_ANDROID_CLIENT_ID.apps.googleusercontent.com",
+        "iosClientId": "YOUR_IOS_CLIENT_ID.apps.googleusercontent.com"
+      }
     }
   }
 }
